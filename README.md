@@ -1,1 +1,1 @@
-"# Skin-cancer-prediction" 
+# Skin-cancer-prediction
